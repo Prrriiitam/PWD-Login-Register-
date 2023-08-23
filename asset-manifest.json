@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Login-signup-page-for-PWD/static/css/main.fde6d2e4.css",
+    "main.js": "/Login-signup-page-for-PWD/static/js/main.da060571.js",
+    "index.html": "/Login-signup-page-for-PWD/index.html",
+    "main.fde6d2e4.css.map": "/Login-signup-page-for-PWD/static/css/main.fde6d2e4.css.map",
+    "main.da060571.js.map": "/Login-signup-page-for-PWD/static/js/main.da060571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fde6d2e4.css",
+    "static/js/main.da060571.js"
+  ]
+}
